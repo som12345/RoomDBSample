@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StyloBillingApp</string>
+    <string name="add_customer">ADD CUSTOMER</string>
+    <string name="find_customer">FIND CUSTOMER</string>
+    <string name="enter_customer_name">Enter Customer Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_phone">Enter PhoneNumber</string>
+    <string name="add_customer_bt">Add Customer</string>
+    <string name="title_activity_show_customer">ShowCustomerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_cust">Enter customer name</string>
+</resources>
